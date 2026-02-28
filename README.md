@@ -10,5 +10,6 @@ A Machine Learning pipeline built in Python to predict the short-term directiona
 * **Language:** Python 3.10
 * **Libraries:** Pandas, Scikit-Learn, Matplotlib, Seaborn, yfinance
 * ## Visual Highlights
- width="1389" height="990" alt="download" src="https://github.com/user-attachments/assets/d6940c33-778b-4b1d-8d55-7858b914d570" />
+<img width="1389" height="990" alt="download" src="https://github.com/user-attachments/assets/e30201ff-19c1-4497-be47-2b0fd345ccc2" />
+
 <img width="635" height="538" alt="download" src="https://github.com/user-attachments/assets/9bed1085-2f7c-4674-8cf7-e955e427607e" />
