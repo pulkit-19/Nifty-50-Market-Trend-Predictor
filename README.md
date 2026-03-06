@@ -13,17 +13,17 @@ Investors often struggle to identify market trends and timing for investment dec
 
 The dataset contains historical Nifty 50 stock price data including:
 
-Date
+* Date
 
-Open price
+* Open price
 
-High price
+* High price
 
-Low price
+* Low price
 
-Close price
+* Close price
 
-Volume
+* Volume
 
 Source: Financial market historical data.
 
