@@ -1,5 +1,5 @@
 # Nifty-50-Market-Trend-Predictor
-Project Overview
+# Project Overview
 
 This project analyzes historical Nifty 50 stock market data using Python to identify trends, volatility patterns, and potential entry and exit signals. The analysis uses time-series techniques and technical indicators such as moving averages to understand market behavior.
 
