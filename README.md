@@ -31,21 +31,21 @@ Source: Financial market historical data.
 
 ### Programming Language
 
-Python
+* Python
 
 ### Libraries
 
-Pandas
+* Pandas
 
-NumPy
+* NumPy
 
-Matplotlib
+* Matplotlib
 
 ### Tools
 
-Jupyter Notebook
+* Jupyter Notebook
 
-GitHub
+* GitHub
 
 ## Project Workflow
 ### 1 Data Collection
@@ -76,34 +76,35 @@ GitHub
 
 ## Key Analysis Performed
 
-Price trend analysis over time
+* Price trend analysis over time
 
-Moving average crossover analysis
+* Moving average crossover analysis
 
-Market volatility visualization
+* Market volatility visualization
 
-Trend identification
+* Trend identification
 
 ## Sample Visualizations
 
 Examples of charts created in the project:
 
-Nifty 50 Price Trend
+* Nifty 50 Price Trend
 
-Moving Average Comparison (50-day vs 200-day)
+* Moving Average Comparison (50-day vs 200-day)
 
-Rolling Volatility Analysis
+* Rolling Volatility Analysis
+  
 <img width="1389" height="990" alt="download" src="https://github.com/user-attachments/assets/e30201ff-19c1-4497-be47-2b0fd345ccc2" />
 
 <img width="635" height="538" alt="download" src="https://github.com/user-attachments/assets/9bed1085-2f7c-4674-8cf7-e955e427607e" />
 
 ## Key Insights
 
-Long-term moving averages help identify bullish and bearish market trends.
+* Long-term moving averages help identify bullish and bearish market trends.
 
-Volatility spikes often occur during major economic events.
+* Volatility spikes often occur during major economic events.
 
-Moving average crossover points can indicate potential entry or exit opportunities.
+* Moving average crossover points can indicate potential entry or exit opportunities.
 
 ## How to Run the Project
 
@@ -127,11 +128,11 @@ Nifty-50-Market-Trend-Predictor
 
 ## Future Improvements
 
-Add machine learning models for price prediction
+* Add machine learning models for price prediction
 
-Include additional technical indicators
+* Include additional technical indicators
 
-Build an interactive dashboard using Plotly or Power BI
+* Build an interactive dashboard using Plotly or Power BI
 
 ## Author
 
