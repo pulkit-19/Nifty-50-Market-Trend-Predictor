@@ -118,13 +118,6 @@ Examples of charts created in the project:
 
 3. Open the Jupyter Notebook and run the cells.
 
-## Project Structure
-Nifty-50-Market-Trend-Predictor
-│
-├── data
-├── notebooks
-├── charts
-├── README.md
 ## Future Improvements
 
 * Add machine learning models for price prediction
