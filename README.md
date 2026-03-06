@@ -50,29 +50,29 @@ GitHub
 ## Project Workflow
 ### 1 Data Collection
 
-Imported historical Nifty 50 stock data for analysis.
+* Imported historical Nifty 50 stock data for analysis.
 
 ### 2 Data Cleaning
 
-Handled missing values and formatted the dataset for time-series analysis.
+* Handled missing values and formatted the dataset for time-series analysis.
 
 ### 3 Feature Engineering
 
-Created additional indicators including:
+* Created additional indicators including:
 
-50-day moving average
+* 50-day moving average
 
-200-day moving average
+* 200-day moving average
 
-Rolling volatility
+* Rolling volatility
 
 ### 4 Exploratory Data Analysis (EDA)
 
-Analyzed price movement patterns and statistical properties of the dataset.
+* Analyzed price movement patterns and statistical properties of the dataset.
 
 ### 5 Visualization
 
-Generated charts to analyze market trends and volatility patterns.
+* Generated charts to analyze market trends and volatility patterns.
 
 ## Key Analysis Performed
 
@@ -107,15 +107,15 @@ Moving average crossover points can indicate potential entry or exit opportuniti
 
 ## How to Run the Project
 
-Clone the repository
+1. Clone the repository
 
-git clone https://github.com/pulkit-19/Nifty-50-Market-Trend-Predictor.git
+   git clone https://github.com/pulkit-19/Nifty-50-Market-Trend-Predictor.git
 
-Install required libraries
+2. Install required libraries
 
-pip install pandas numpy matplotlib
+   pip install pandas numpy matplotlib
 
-Open the Jupyter Notebook and run the cells.
+3. Open the Jupyter Notebook and run the cells.
 
 ## Project Structure
 Nifty-50-Market-Trend-Predictor
