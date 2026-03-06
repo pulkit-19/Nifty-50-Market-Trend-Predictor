@@ -125,7 +125,6 @@ Nifty-50-Market-Trend-Predictor
 ├── notebooks
 ├── charts
 ├── README.md
-
 ## Future Improvements
 
 * Add machine learning models for price prediction
